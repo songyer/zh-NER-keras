@@ -7,7 +7,7 @@ by Keras 2.1.4
 * keras contribute 2.0.8 (https://github.com/keras-team/keras-contrib)
 * h5py 
 * pickle
-
+* [博客](https://www.cnblogs.com/vipyoumay/p/ner-chinese-keras.html)
 ## demo 
 
 ```python
